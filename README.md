@@ -105,3 +105,20 @@ Aadhaar-like systems are not databases.
 
 They are:
 > Deep Learning Systems for National Economies
+
+Epoch 0 | Loss 0.2059
+Epoch 20 | Loss 0.0262
+Epoch 40 | Loss 0.0066
+Epoch 60 | Loss 0.0054
+Epoch 80 | Loss 0.0046
+Epoch 100 | Loss 0.0038
+Epoch 120 | Loss 0.0030
+Epoch 140 | Loss 0.0021
+Epoch 160 | Loss 0.0013
+Epoch 180 | Loss 0.0007
+
+--- Inference Example ---
+Input Features: [[0.65302044 0.23214078 0.6713206  0.40930825 0.26945037 0.39977717
+  0.40623575 0.7409632  0.6174475  0.31240255]]
+Predicted [GDP, HDI, Inclusion]: [[0.4504856  0.39173704 0.5972638 ]]
+
